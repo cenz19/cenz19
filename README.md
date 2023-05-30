@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Tensorflow**
 
-- 👨‍💻 All of my projects are available at [https://github.com/cenz19](https://github.com/cenz19)
-
 - 💬 Ask me about **Semantic HTML, Advance CSS, and JavaScript**
 
 - 📫 How to reach me **vincenthadinata19@gmail.com**
