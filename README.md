@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/vincent-hadinata-2b3062175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincent (kurniawan) hadinata" height="30" width="40" /></a>
 <a href="https://www.instagram.com/?next=%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@vincent_hadinata" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/vincent code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vincent code" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@vincenthadinata2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vincenthadinata2" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vincenthadinata2?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vincenthadinata2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
