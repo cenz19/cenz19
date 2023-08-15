@@ -61,5 +61,7 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cenz19&show_icons=true&locale=en&layout=compact" alt="cenz19" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cenz19&show_icons=true&locale=en" alt="cenz19" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cenz19&show_icons=true&locale=en" alt="cenz19" /></p><br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cenz19&" alt="cenz19" /></p>
