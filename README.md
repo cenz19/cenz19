@@ -58,8 +58,3 @@
   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a>
 </p>
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cenz19&" alt="cenz19" /></p>
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cenz19&show_icons=true&locale=en" alt="cenz19" /></p>
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cenz19&show_icons=true&locale=en&layout=compact" alt="cenz19" />
-</p>
